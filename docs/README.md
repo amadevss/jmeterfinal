@@ -62,3 +62,9 @@ El PDF solicita captura de constancia con nombre y folio, archivo .jmx y captura
 - `scripts/check-api.mjs`: pruebas HTTP de integración.
 
 Se consultaron las guías locales de route handlers, server/client components y cacheComponents de Next.js instalado. Con cacheComponents habilitado se usa el runtime Node predeterminado, sin las opciones de segmento runtime/dynamic incompatibles.
+
+## Resultado de verificación
+
+La compilación de producción y ESLint pasaron. Se verificaron 40 comprobaciones HTTP contra el servidor de producción y un flujo de navegador con Edge: registro de los cinco códigos, folio, persistencia después de recargar, cambio a otro usuario sin heredar misiones, recuperación del usuario original y ejecución desde `/docs`. Se comprobó un viewport móvil de 390 px sin desbordamiento y sin errores de JavaScript. Las capturas están en esta carpeta.
+
+El script opcional `scripts/check-ui.mjs` requiere Playwright accesible como módulo y Microsoft Edge instalado. Se puede indicar una instalación externa mediante PLAYWRIGHT_MODULE (URL file:/// absoluta al módulo index.mjs). Usa el servidor de producción en el puerto 3002 y los códigos creados por el script HTTP para Maria Pruebas; ejecútalos en ese orden. Playwright no es una dependencia de la aplicación.

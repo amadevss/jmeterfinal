@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 const base=process.env.BASE_URL||'http://localhost:3001';
 const participant='Maria Pruebas';
 let checks=0;
-async function call(path, status=200, method='GET', body, headers={}){const r=await fetch(base+path,{method,headers:{'Content-Type':'application/json','X-Participante':participant,...headers},...(body!==undefined?{body:typeof body==='string'?body:JSON.stringify(body)}:{})});assert.equal(r.status,status,`${method} ${path}`);checks++;return {r,data:r.status===204?null:await r.json()};}
+async function call(path, status=200, method='GET', body, headers={}){const r=await fetch(base+path,{method,headers:{'Content-Type':'application/json','X-Participante':participant,...headers},...(body!==undefined?{body:typeof body==='string'?body:JSON.stringify(body)}:{})});assert.equal(r.status,status,`${method} ${path}`);checks++;return {r,data:[204,205,304].includes(r.status)?null:await r.json()};}
 const {data:health}=await call('/api/salud');assert.equal(health.derechohabientes,500);
 const {data:list}=await call('/api/derechohabientes');const curp=list.derechohabientes[0].curp;
 await call('/api/derechohabientes?limite=51',422);
@@ -16,7 +16,7 @@ const {data:cert}=await call('/api/misiones/constancia',200,'POST',{participante
 await call('/api/protegido',401);await call('/api/citas',422,'POST',{});await call('/api/citas',422,'POST',[]);
 await call('/api/citas',404,'POST',{curp:'NO',especialidad:'x',fecha:'x',hora:'x'});
 await call(`/api/citas/${globalThis.cita}`);await call(`/api/citas/${globalThis.cita}`,200,'PUT',{curp,especialidad:'x',fecha:'x',hora:'x'});await call(`/api/citas/${globalThis.cita}`,200,'PATCH',{hora:'12:30'});await call(`/api/citas/${globalThis.cita}`,400,'PATCH',{});await call(`/api/citas/${globalThis.cita}`,204,'DELETE');await call('/api/citas/NO',404);
-await call('/api/simular/500',500);await call('/api/simular/204',204);await call('/api/simular/205',205).catch(e=>{if(e instanceof SyntaxError)checks++;else throw e;});await call('/api/simular/600',422);await call('/api/simular/lento?ms=-1',422);const start=Date.now();await call('/api/simular/lento?ms=100');assert.ok(Date.now()-start>=95);
+await call('/api/simular/500',500);await call('/api/simular/204',204);await call('/api/simular/205',205);await call('/api/simular/600',422);await call('/api/simular/lento?ms=-1',422);const start=Date.now();await call('/api/simular/lento?ms=100');assert.ok(Date.now()-start>=95);
 const soap=await fetch(base+'/soap',{method:'POST',headers:{'Content-Type':'text/xml'},body:`<soap:Envelope><soap:Body><ConsultarDerechohabiente><curp>${curp}</curp></ConsultarDerechohabiente></soap:Body></soap:Envelope>`});assert.equal(soap.status,200);assert.match(await soap.text(),/ConsultarDerechohabienteResponse/);checks++;
 const fault=await fetch(base+'/soap',{method:'POST',body:'<no/>'});assert.equal(fault.status,500);assert.match(await fault.text(),/soap:Fault/);checks++;
 const csv=await fetch(base+'/datos/curps_500.csv');assert.equal((await csv.text()).trim().split('\n').length,501);checks++;
