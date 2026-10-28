@@ -19,3 +19,7 @@ node scripts/check-api.mjs
 ```
 
 Configura `SECRETO` en `.env.local` para cambiar la firma. Las citas son simuladas y el monitor es temporal por proceso; los perfiles y códigos se guardan en localStorage del navegador.
+
+
+
+esto es una prueba
