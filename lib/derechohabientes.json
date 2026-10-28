@@ -1,0 +1,3502 @@
+[
+  {
+    "curp": "RIGL620203MNLVMC08",
+    "nombre": "Lucia Rivera Gomez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "MORS650416MSRRMN01",
+    "nombre": "Sandra Morales Ramirez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "OIGM920812MBCRRN07",
+    "nombre": "Monica Ortiz Garcia",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "FORD590213MQTLZN04",
+    "nombre": "Diana Flores Ruiz",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "REPC660902HCHYRR00",
+    "nombre": "Carlos Reyes Perez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "CAMV760210MPLSNR07",
+    "nombre": "Veronica Castillo Mendoza",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RIRL800617MBCVMR08",
+    "nombre": "Laura Rivera Ramirez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "JIVA550611HQTMRR00",
+    "nombre": "Arturo Jimenez Vargas",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "RIVM941203HNLVRG07",
+    "nombre": "Miguel Rivera Vargas",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "LOGA630818HVZPMN01",
+    "nombre": "Andres Lopez Gomez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "TOGJ941028HSORMR00",
+    "nombre": "Jorge Torres Gomez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "LORL040624MBCPMCA9",
+    "nombre": "Lucia Lopez Ramirez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "DIMS020212MBCZRFA2",
+    "nombre": "Sofia Diaz Morales",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "PERS880804MJCRYF09",
+    "nombre": "Sofia Perez Reyes",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "JIRR690915HJCMMC06",
+    "nombre": "Ricardo Jimenez Ramirez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "DICF940108HSOZSR07",
+    "nombre": "Fernando Diaz Castillo",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "GOGP580213MTSMRT01",
+    "nombre": "Patricia Gomez Garcia",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "VALA610802HGTRPR09",
+    "nombre": "Arturo Vargas Lopez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RIVJ620218HGTVRS08",
+    "nombre": "Jose Rivera Vargas",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "RUTK751207MCHZRR00",
+    "nombre": "Karla Ruiz Torres",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "DIMF800603HJCZRR09",
+    "nombre": "Fernando Diaz Morales",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "PEGF031016HVZRRRA1",
+    "nombre": "Fernando Perez Garcia",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "CAJM940623HVZSMG08",
+    "nombre": "Miguel Castillo Jimenez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "CUMR970810HQTRNL07",
+    "nombre": "Raul Cruz Mendoza",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MEVD650424HDFNRG01",
+    "nombre": "Diego Mendoza Vargas",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "MOJA670709HBCRMR02",
+    "nombre": "Arturo Morales Jimenez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "GAMC780426MNLRNL01",
+    "nombre": "Claudia Garcia Mendoza",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "VACM020720HTSRSGA4",
+    "nombre": "Miguel Vargas Castillo",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RAGH980824HSOMRC01",
+    "nombre": "Hector Ramirez Garcia",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "PEHK960124MJCRRR00",
+    "nombre": "Karla Perez Hernandez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "LOOL900218MBCPRC05",
+    "nombre": "Lucia Lopez Ortiz",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MEPC610118HNLNRR07",
+    "nombre": "Carlos Mendoza Perez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "PEDR790609HYNRZL03",
+    "nombre": "Raul Perez Diaz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "OIRA790905HSORZR06",
+    "nombre": "Arturo Ortiz Ruiz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "OIMP050303MSORNTA2",
+    "nombre": "Patricia Ortiz Mendoza",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "GOJO821213HDFMMM02",
+    "nombre": "Omar Gomez Jimenez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "MAJL600701HTSRMS08",
+    "nombre": "Luis Martinez Jimenez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RUJM510522HQTZMG07",
+    "nombre": "Miguel Ruiz Jimenez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MOCC740628MDFRSL08",
+    "nombre": "Claudia Morales Castillo",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MERM510706MQTNYR08",
+    "nombre": "Maria Mendoza Reyes",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "VAOF050902HVZRRRA8",
+    "nombre": "Fernando Vargas Ortiz",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RUJC620125HPLZMR08",
+    "nombre": "Carlos Ruiz Jimenez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MEML600424HPLNRS04",
+    "nombre": "Luis Mendoza Morales",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "RUOD530813MPLZRN09",
+    "nombre": "Diana Ruiz Ortiz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RUPE940104MSRZRL01",
+    "nombre": "Elena Ruiz Perez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "VAJC750414MCHRML04",
+    "nombre": "Claudia Vargas Jimenez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "JIGG040902MVZMRBA7",
+    "nombre": "Gabriela Jimenez Garcia",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RIRA600519HYNVMR07",
+    "nombre": "Arturo Rivera Ramirez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MEVG941104MPLNRB03",
+    "nombre": "Gabriela Mendoza Vargas",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MEGS871213MVZNRF05",
+    "nombre": "Sofia Mendoza Garcia",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "GOJD730428MMCMMN01",
+    "nombre": "Diana Gomez Jimenez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RAMP800108HQTMRD00",
+    "nombre": "Pedro Ramirez Martinez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "REPJ570814HBCYRN01",
+    "nombre": "Juan Reyes Perez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RUJG781121MVZZMB00",
+    "nombre": "Gabriela Ruiz Jimenez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "CAMK500810MSLSRR03",
+    "nombre": "Karla Castillo Morales",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "JIHD710204HMCMRG07",
+    "nombre": "Diego Jimenez Hernandez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MAVC861224HJCRRR00",
+    "nombre": "Carlos Martinez Vargas",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RIRA901021HVZVZR02",
+    "nombre": "Arturo Rivera Ruiz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "MARL590204HCHRVS02",
+    "nombre": "Luis Martinez Rivera",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "MARJ960201HTSRMR08",
+    "nombre": "Jorge Martinez Ramirez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "LOHM990111HSLPRG04",
+    "nombre": "Miguel Lopez Hernandez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CUOR750513HSLRRL06",
+    "nombre": "Raul Cruz Ortiz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "LORH660420HSRPYC02",
+    "nombre": "Hector Lopez Reyes",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RAMR721111HTSMRL00",
+    "nombre": "Raul Ramirez Martinez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "RETD820915HJCYRG08",
+    "nombre": "Diego Reyes Torres",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "CAFS820917MCHSLF03",
+    "nombre": "Sofia Castillo Flores",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "HEOA890414HCHRRN05",
+    "nombre": "Andres Hernandez Ortiz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "LOMJ850503HCHPNN07",
+    "nombre": "Juan Lopez Mendoza",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "TOGC990509MSORML06",
+    "nombre": "Claudia Torres Gomez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "REMA561126HTSYNN02",
+    "nombre": "Andres Reyes Mendoza",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "VAGM600826MMCRRR08",
+    "nombre": "Maria Vargas Garcia",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "CAVJ590719HJCSRN05",
+    "nombre": "Juan Castillo Vargas",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MERJ610221HYNNMS03",
+    "nombre": "Jose Mendoza Ramirez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "VAHR800828MVZRRS04",
+    "nombre": "Rosa Vargas Hernandez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "GARF930714HYNRZR08",
+    "nombre": "Fernando Garcia Ruiz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "TOVA860321HPLRRN03",
+    "nombre": "Andres Torres Vargas",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "OIMM960416HSRRRG01",
+    "nombre": "Miguel Ortiz Martinez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "HEJP860920MSRRMT06",
+    "nombre": "Patricia Hernandez Jimenez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "TOMD650609MSRRNN03",
+    "nombre": "Diana Torres Mendoza",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CUVJ610919HDFRRN06",
+    "nombre": "Juan Cruz Vargas",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "REGC681214HMCYMR00",
+    "nombre": "Carlos Reyes Gomez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "HEFP530605MSRRLT04",
+    "nombre": "Patricia Hernandez Flores",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "JIMS540106MSRMNN06",
+    "nombre": "Sandra Jimenez Mendoza",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MEMS850417MSRNRF00",
+    "nombre": "Sofia Mendoza Martinez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "FORP970501HJCLZD09",
+    "nombre": "Pedro Flores Ruiz",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "HECF670409HQTRSR07",
+    "nombre": "Fernando Hernandez Castillo",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RAJJ010212HSRMMSA7",
+    "nombre": "Jose Ramirez Jimenez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "FOMA980412HQTLRN09",
+    "nombre": "Andres Flores Morales",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "CUPO010410HSORRMA3",
+    "nombre": "Omar Cruz Perez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "PEDJ500308HNLRZS04",
+    "nombre": "Jose Perez Diaz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "PEHR561213HDFRRC09",
+    "nombre": "Ricardo Perez Hernandez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "FOMA710617HVZLRR09",
+    "nombre": "Arturo Flores Martinez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MELF810427HQTNPR01",
+    "nombre": "Fernando Mendoza Lopez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "GAMA831022HSORRR04",
+    "nombre": "Arturo Garcia Martinez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RAMH050720HCHMRCA5",
+    "nombre": "Hector Ramirez Morales",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CARL730805MYNSVR07",
+    "nombre": "Laura Castillo Rivera",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "JITR760321HTSMRL09",
+    "nombre": "Raul Jimenez Torres",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "TOME691216MSORRL07",
+    "nombre": "Elena Torres Morales",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "LOMK710612MGTPRR03",
+    "nombre": "Karla Lopez Martinez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MAVM780110MQTRRR02",
+    "nombre": "Maria Martinez Vargas",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "PETA651022HSLRRR06",
+    "nombre": "Arturo Perez Torres",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "REPJ850609HSRYRS00",
+    "nombre": "Jose Reyes Perez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MAGA910717HMCRRN08",
+    "nombre": "Andres Martinez Garcia",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "TORV780324MPLRMR03",
+    "nombre": "Veronica Torres Ramirez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "JIPP671023HYNMRD01",
+    "nombre": "Pedro Jimenez Perez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "GOHM001115MSRMRNA5",
+    "nombre": "Monica Gomez Hernandez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "GARR760306HDFRYL02",
+    "nombre": "Raul Garcia Reyes",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "PERC650212HQTRZR00",
+    "nombre": "Carlos Perez Ruiz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MEGG950904MJCNMB02",
+    "nombre": "Gabriela Mendoza Gomez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RUOM010405MSRZRNA1",
+    "nombre": "Monica Ruiz Ortiz",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "CUMP620716MYNRRT02",
+    "nombre": "Patricia Cruz Martinez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "HEGR040602HJCRRLA7",
+    "nombre": "Raul Hernandez Garcia",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RAMM790920HSRMRG05",
+    "nombre": "Miguel Ramirez Martinez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "OIDV700613MJCRZR06",
+    "nombre": "Veronica Ortiz Diaz",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "DIJP501120HQTZMD04",
+    "nombre": "Pedro Diaz Jimenez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MARD050313HCHRMGA3",
+    "nombre": "Diego Martinez Ramirez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "JITC850114HQTMRR05",
+    "nombre": "Carlos Jimenez Torres",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "HERS570105MYNRVF09",
+    "nombre": "Sofia Hernandez Rivera",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "FOGF830324HSRLMR06",
+    "nombre": "Fernando Flores Gomez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RICV950915MSRVRR06",
+    "nombre": "Veronica Rivera Cruz",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "JIFG810802MSOMLB05",
+    "nombre": "Gabriela Jimenez Flores",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "OIJR930806MYNRMS09",
+    "nombre": "Rosa Ortiz Jimenez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "TOHS740309MTSRRF06",
+    "nombre": "Sofia Torres Hernandez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "VARD700513MBCRYN04",
+    "nombre": "Diana Vargas Reyes",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "GOLS660415MMCMPN02",
+    "nombre": "Sandra Gomez Lopez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "FORS860201MVZLMN04",
+    "nombre": "Sandra Flores Ramirez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GOTR980922HYNMRL09",
+    "nombre": "Raul Gomez Torres",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "HEMJ540210HDFRRR03",
+    "nombre": "Jorge Hernandez Morales",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "DIJM970928MGTZMR07",
+    "nombre": "Maria Diaz Jimenez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "VAGK021103MSORMRA3",
+    "nombre": "Karla Vargas Gomez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "CAOE901128MSLSRL03",
+    "nombre": "Elena Castillo Ortiz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "FOGJ520821HMCLMN08",
+    "nombre": "Juan Flores Gomez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "FOVP530407MSRLRT05",
+    "nombre": "Patricia Flores Vargas",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "OIRL590407MSRRYR08",
+    "nombre": "Laura Ortiz Reyes",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "DICV530214MSLZRR06",
+    "nombre": "Veronica Diaz Cruz",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "FOCA870821HQTLRR09",
+    "nombre": "Arturo Flores Cruz",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "VAGM820106MPLRMR02",
+    "nombre": "Maria Vargas Gomez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RUGM900510MVZZRN04",
+    "nombre": "Monica Ruiz Garcia",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "DIRC870207MDFZML06",
+    "nombre": "Claudia Diaz Ramirez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "OIRL560602MSLRZR00",
+    "nombre": "Laura Ortiz Ruiz",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "OIRH970824HDFRYC06",
+    "nombre": "Hector Ortiz Reyes",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "CALG930314MBCSPB00",
+    "nombre": "Gabriela Castillo Lopez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "DIJR040406MNLZMSA0",
+    "nombre": "Rosa Diaz Jimenez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "LOCE630603MSRPSL04",
+    "nombre": "Elena Lopez Castillo",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CARR040821MBCSZSA1",
+    "nombre": "Rosa Castillo Ruiz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RIMA810617HJCVRN09",
+    "nombre": "Andres Rivera Morales",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "GORL900620HGTMYS01",
+    "nombre": "Luis Gomez Reyes",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "OIJD671223MSORMN03",
+    "nombre": "Diana Ortiz Jimenez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "TORP810205MBCRZT09",
+    "nombre": "Patricia Torres Ruiz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "CATR860608HVZSRC09",
+    "nombre": "Ricardo Castillo Torres",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "FOJK601224MGTLMR05",
+    "nombre": "Karla Flores Jimenez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RADP790924HGTMZD07",
+    "nombre": "Pedro Ramirez Diaz",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "VAFA520110HVZRLN06",
+    "nombre": "Andres Vargas Flores",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "VARJ771027HSORYR06",
+    "nombre": "Jorge Vargas Reyes",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "JIRF710425HGTMVR00",
+    "nombre": "Fernando Jimenez Rivera",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RUTA920226HPLZRN08",
+    "nombre": "Andres Ruiz Torres",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "FOOL050203MQTLRRA2",
+    "nombre": "Laura Flores Ortiz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "CAMD820618MBCSRN06",
+    "nombre": "Diana Castillo Martinez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "CUPK510408MNLRRR01",
+    "nombre": "Karla Cruz Perez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "REDJ880718HSLYZN09",
+    "nombre": "Juan Reyes Diaz",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MOLO700222HSLRPM06",
+    "nombre": "Omar Morales Lopez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "PECS050825MDFRRNA4",
+    "nombre": "Sandra Perez Cruz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "HERC860211HBCRVR04",
+    "nombre": "Carlos Hernandez Rivera",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RIFL910228HGTVLS05",
+    "nombre": "Luis Rivera Flores",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "JIMS970501MNLMRF09",
+    "nombre": "Sofia Jimenez Martinez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "DIMV990114MSLZNR07",
+    "nombre": "Veronica Diaz Mendoza",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "OIFA800407HBCRLR05",
+    "nombre": "Arturo Ortiz Flores",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "DILR990602HSOZPC09",
+    "nombre": "Ricardo Diaz Lopez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "TOVR881221MNLRRS08",
+    "nombre": "Rosa Torres Vargas",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "DIRH681201HNLZMC01",
+    "nombre": "Hector Diaz Ramirez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "JIMD801021MSLMRN02",
+    "nombre": "Diana Jimenez Martinez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "LOGC550812MTSPRL07",
+    "nombre": "Claudia Lopez Garcia",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GAMS030405MPLRRFA7",
+    "nombre": "Sofia Garcia Morales",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MOVJ650301HPLRRS09",
+    "nombre": "Jose Morales Vargas",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RAOG871116MPLMRB01",
+    "nombre": "Gabriela Ramirez Ortiz",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "HEPE821008MGTRRL08",
+    "nombre": "Elena Hernandez Perez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MAGF671022HJCRRR08",
+    "nombre": "Fernando Martinez Garcia",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RIJC780103HNLVMR06",
+    "nombre": "Carlos Rivera Jimenez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "JIMJ870801HJCMNN02",
+    "nombre": "Juan Jimenez Mendoza",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "CAHC570504HDFSRR03",
+    "nombre": "Carlos Castillo Hernandez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "OIRA761128MSLRMN08",
+    "nombre": "Ana Ortiz Ramirez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "HERR030402HVZRYCA9",
+    "nombre": "Ricardo Hernandez Reyes",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "LORA570402HPLPVN09",
+    "nombre": "Andres Lopez Rivera",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GOMC970220HBCMNR05",
+    "nombre": "Carlos Gomez Mendoza",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RARC920208HJCMZR04",
+    "nombre": "Carlos Ramirez Ruiz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RICC720928MPLVRL08",
+    "nombre": "Claudia Rivera Cruz",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RAMM651206HVZMRG07",
+    "nombre": "Miguel Ramirez Martinez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CUMP531027MBCRRT04",
+    "nombre": "Patricia Cruz Morales",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "TOCD660209HVZRSG09",
+    "nombre": "Diego Torres Castillo",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "OIMG700715MDFRNB07",
+    "nombre": "Gabriela Ortiz Mendoza",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RELP600423MPLYPT00",
+    "nombre": "Patricia Reyes Lopez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "GAGS771022MJCRMF02",
+    "nombre": "Sofia Garcia Gomez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MAMS700220MNLRRN03",
+    "nombre": "Sandra Martinez Morales",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "GOCE801216MNLMRL06",
+    "nombre": "Elena Gomez Cruz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CUJJ750803HSLRMS02",
+    "nombre": "Jose Cruz Jimenez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "HEMS890628MYNRNF00",
+    "nombre": "Sofia Hernandez Mendoza",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "PECD730621HSORSG04",
+    "nombre": "Diego Perez Castillo",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "TOPM840504MYNRRN03",
+    "nombre": "Monica Torres Perez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "DIVJ010418HTSZRRA6",
+    "nombre": "Jorge Diaz Vargas",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RIMA780404HBCVRR02",
+    "nombre": "Arturo Rivera Martinez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RAFR830510HPLMLL08",
+    "nombre": "Raul Ramirez Flores",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "VADH700107HSORZC00",
+    "nombre": "Hector Vargas Diaz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RUJA031117HYNZMRA3",
+    "nombre": "Arturo Ruiz Jimenez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "CUMC620828HMCRNR04",
+    "nombre": "Carlos Cruz Mendoza",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RIGH650910HQTVRC09",
+    "nombre": "Hector Rivera Garcia",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "DICM911001MSOZSR09",
+    "nombre": "Maria Diaz Castillo",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "FOPA840811HSLLRR00",
+    "nombre": "Arturo Flores Perez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RUOF621004HDFZRR02",
+    "nombre": "Fernando Ruiz Ortiz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MELL760212MGTNPC03",
+    "nombre": "Lucia Mendoza Lopez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "REMJ990324HSLYRR05",
+    "nombre": "Jorge Reyes Martinez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "VARC870814HYNRZR05",
+    "nombre": "Carlos Vargas Ruiz",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "TORD780518HYNRYG06",
+    "nombre": "Diego Torres Reyes",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RIFR040508HVZVLCA3",
+    "nombre": "Ricardo Rivera Flores",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "LOHA621007HGTPRR02",
+    "nombre": "Arturo Lopez Hernandez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "LORJ540717HBCPMR04",
+    "nombre": "Jorge Lopez Ramirez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "OIMD970623HYNRRG08",
+    "nombre": "Diego Ortiz Morales",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "PECE540415MYNRRL06",
+    "nombre": "Elena Perez Cruz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "TORL590818MGTRYC00",
+    "nombre": "Lucia Torres Reyes",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "RITF961028HSRVRR08",
+    "nombre": "Fernando Rivera Torres",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "PEDF501101HNLRZR01",
+    "nombre": "Fernando Perez Diaz",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "VARM880808MQTRYR07",
+    "nombre": "Maria Vargas Reyes",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "JIGF680111HSOMMR08",
+    "nombre": "Fernando Jimenez Gomez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "GOJP980427MQTMMT02",
+    "nombre": "Patricia Gomez Jimenez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "PEFR841003MSLRLS00",
+    "nombre": "Rosa Perez Flores",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MEVP720524HSLNRD06",
+    "nombre": "Pedro Mendoza Vargas",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "JIVJ680514HGTMRR06",
+    "nombre": "Jorge Jimenez Vargas",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "OIDS660524MSLRZF00",
+    "nombre": "Sofia Ortiz Diaz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "TORE850208MVZRVL00",
+    "nombre": "Elena Torres Rivera",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "PEGA620614MVZRRN04",
+    "nombre": "Ana Perez Garcia",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RARF880210HYNMYR05",
+    "nombre": "Fernando Ramirez Reyes",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "GOMR810211HSRMRC05",
+    "nombre": "Ricardo Gomez Martinez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MODF710323HQTRZR04",
+    "nombre": "Fernando Morales Diaz",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RUDJ740621HQTZZR01",
+    "nombre": "Jorge Ruiz Diaz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "GOMC850508MDFMRL03",
+    "nombre": "Claudia Gomez Morales",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "JIDC800612MSOMZL07",
+    "nombre": "Claudia Jimenez Diaz",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RIRL711101MDFVZR04",
+    "nombre": "Laura Rivera Ruiz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "GAMF780623HSRRRR01",
+    "nombre": "Fernando Garcia Martinez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "TOVL041219HNLRRSA4",
+    "nombre": "Luis Torres Vargas",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MACF040919HVZRRRA9",
+    "nombre": "Fernando Martinez Cruz",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "OIFL010309HSRRLSA9",
+    "nombre": "Luis Ortiz Flores",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MALM680910MSORPR01",
+    "nombre": "Maria Martinez Lopez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RAGC030916HJCMRRA2",
+    "nombre": "Carlos Ramirez Garcia",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "JIPA641004HCHMRN02",
+    "nombre": "Andres Jimenez Perez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "JIGR820225MGTMRS03",
+    "nombre": "Rosa Jimenez Garcia",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RIML570127MSRVRR05",
+    "nombre": "Laura Rivera Martinez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MEJL750108MBCNMR07",
+    "nombre": "Laura Mendoza Jimenez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MEOJ710810HSRNRN05",
+    "nombre": "Juan Mendoza Ortiz",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "DIPJ970218HVZZRR03",
+    "nombre": "Jorge Diaz Perez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MERK940223MVZNYR09",
+    "nombre": "Karla Mendoza Reyes",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MACE690212MVZRSL02",
+    "nombre": "Elena Martinez Castillo",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "TOCR840907HDFRRL08",
+    "nombre": "Raul Torres Cruz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CUCS050206MNLRSNA1",
+    "nombre": "Sandra Cruz Castillo",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "OIMA010315HGTRRRA9",
+    "nombre": "Arturo Ortiz Martinez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "FOPM860615MSRLRN02",
+    "nombre": "Monica Flores Perez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "REGC010727HSOYRRA4",
+    "nombre": "Carlos Reyes Garcia",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MAVP000210MNLRRTA1",
+    "nombre": "Patricia Martinez Vargas",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MOHP690324MDFRRT02",
+    "nombre": "Patricia Morales Hernandez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "HEJS950509MJCRMN07",
+    "nombre": "Sandra Hernandez Jimenez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RIJL630623HSOVMS06",
+    "nombre": "Luis Rivera Jimenez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "HELR711115HNLRPL09",
+    "nombre": "Raul Hernandez Lopez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "REHA941015MSLYRN09",
+    "nombre": "Ana Reyes Hernandez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RIRE771222MPLVYL09",
+    "nombre": "Elena Rivera Reyes",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GORC551012MMCMML08",
+    "nombre": "Claudia Gomez Ramirez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "OIMH830225HQTRRC01",
+    "nombre": "Hector Ortiz Morales",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "FODR830916HSLLZC08",
+    "nombre": "Ricardo Flores Diaz",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RAMO051118HQTMRMA7",
+    "nombre": "Omar Ramirez Martinez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "LOHM050310HNLPRGA4",
+    "nombre": "Miguel Lopez Hernandez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "MATV980318MGTRRR08",
+    "nombre": "Veronica Martinez Torres",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RIGS001125MMCVMNA8",
+    "nombre": "Sandra Rivera Gomez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "LODJ601125HDFPZN06",
+    "nombre": "Juan Lopez Diaz",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "LOJC890303MQTPML04",
+    "nombre": "Claudia Lopez Jimenez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "TORR890916HYNRMC06",
+    "nombre": "Ricardo Torres Ramirez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "VAFO790824HSORLM02",
+    "nombre": "Omar Vargas Flores",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RERS610304MPLYMN00",
+    "nombre": "Sandra Reyes Ramirez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "FOMR550811HJCLNC05",
+    "nombre": "Ricardo Flores Mendoza",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RIRC561127MMCVZL05",
+    "nombre": "Claudia Rivera Ruiz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RIGA870408HCHVRN01",
+    "nombre": "Andres Rivera Garcia",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "JIRS960920MCHMVF08",
+    "nombre": "Sofia Jimenez Rivera",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "GAVE661001MTSRRL02",
+    "nombre": "Elena Garcia Vargas",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "TOME671215MJCRRL01",
+    "nombre": "Elena Torres Martinez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "OIPJ561222HQTRRS05",
+    "nombre": "Jose Ortiz Perez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RIRJ570915HNLVMN05",
+    "nombre": "Juan Rivera Ramirez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "LOVM510103MTSPRR05",
+    "nombre": "Maria Lopez Vargas",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GOVG520817MDFMRB04",
+    "nombre": "Gabriela Gomez Vargas",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MAHC510116HNLRRR09",
+    "nombre": "Carlos Martinez Hernandez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GACM010217MSRRSRA9",
+    "nombre": "Maria Garcia Castillo",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "GOFV010409MNLMLRA1",
+    "nombre": "Veronica Gomez Flores",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RETL991215HVZYRS05",
+    "nombre": "Luis Reyes Torres",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "PECJ511209HMCRRN05",
+    "nombre": "Juan Perez Cruz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "CUTK850810MSLRRR00",
+    "nombre": "Karla Cruz Torres",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MOCR540705HSLRSC03",
+    "nombre": "Ricardo Morales Castillo",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RUMR960212HGTZNL02",
+    "nombre": "Raul Ruiz Mendoza",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "CARF590417HMCSMR07",
+    "nombre": "Fernando Castillo Ramirez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RAGK800908MPLMMR00",
+    "nombre": "Karla Ramirez Gomez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MOGM760614HSRRRG04",
+    "nombre": "Miguel Morales Garcia",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GOJJ830508HDFMMS05",
+    "nombre": "Jose Gomez Jimenez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MOPA870319HMCRRR05",
+    "nombre": "Arturo Morales Perez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MODM960813MBCRZR01",
+    "nombre": "Maria Morales Diaz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "FOPD500901HGTLRG00",
+    "nombre": "Diego Flores Perez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "FORO050719HMCLVMA7",
+    "nombre": "Omar Flores Rivera",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "PERS900907MGTRYF08",
+    "nombre": "Sofia Perez Reyes",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "HEMC770309MJCRNL03",
+    "nombre": "Claudia Hernandez Mendoza",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "CAMM540112MSLSNN03",
+    "nombre": "Monica Castillo Mendoza",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MOCR970115HPLRRL08",
+    "nombre": "Raul Morales Cruz",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "CUMS840307MDFRRN07",
+    "nombre": "Sandra Cruz Martinez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RARJ760426HYNMYN03",
+    "nombre": "Juan Ramirez Reyes",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "DIMM830422MYNZRN07",
+    "nombre": "Monica Diaz Martinez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "FOMR020312HNLLRCA8",
+    "nombre": "Ricardo Flores Martinez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "RUPS750416MDFZRN03",
+    "nombre": "Sandra Ruiz Perez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RIGL761007HBCVMS00",
+    "nombre": "Luis Rivera Gomez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "GOTJ950317HJCMRR05",
+    "nombre": "Jorge Gomez Torres",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "GOHM001025HMCMRGA0",
+    "nombre": "Miguel Gomez Hernandez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MACF790816HVZRRR01",
+    "nombre": "Fernando Martinez Cruz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "REMM630226MYNYRR02",
+    "nombre": "Maria Reyes Martinez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "JIVV830421MTSMRR07",
+    "nombre": "Veronica Jimenez Vargas",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "TOLA770924HVZRPR05",
+    "nombre": "Arturo Torres Lopez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "CATO661220HBCSRM09",
+    "nombre": "Omar Castillo Torres",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MARC560709MSORVL05",
+    "nombre": "Claudia Martinez Rivera",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "PERD930309MPLRYN04",
+    "nombre": "Diana Perez Reyes",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "HEOJ530604HVZRRR05",
+    "nombre": "Jorge Hernandez Ortiz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CAJJ960313HSOSMS04",
+    "nombre": "Jose Castillo Jimenez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RIGA690816HSRVMN01",
+    "nombre": "Andres Rivera Gomez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MOLR590418MMCRPS08",
+    "nombre": "Rosa Morales Lopez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "DIRR800806HPLZVC00",
+    "nombre": "Ricardo Diaz Rivera",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "VAOP970919HYNRRD02",
+    "nombre": "Pedro Vargas Ortiz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MORL511209MSLRYC09",
+    "nombre": "Lucia Morales Reyes",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CAVC950608MMCSRL05",
+    "nombre": "Claudia Castillo Vargas",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "REDM651212MDFYZN06",
+    "nombre": "Monica Reyes Diaz",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "TOCJ731227HSRRSS06",
+    "nombre": "Jose Torres Castillo",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "VACC010725MNLRSLA4",
+    "nombre": "Claudia Vargas Castillo",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "OICA721107HCHRSN03",
+    "nombre": "Andres Ortiz Castillo",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "GALH050415HSRRPCA5",
+    "nombre": "Hector Garcia Lopez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "MACO870904HSORSM00",
+    "nombre": "Omar Martinez Castillo",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "LOTA660217MQTPRN03",
+    "nombre": "Ana Lopez Torres",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MERP010601HTSNVDA7",
+    "nombre": "Pedro Mendoza Rivera",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "LORA781025HPLPZN00",
+    "nombre": "Andres Lopez Ruiz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MOJJ960303HBCRMR03",
+    "nombre": "Jorge Morales Jimenez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MARS820721MJCRZN08",
+    "nombre": "Sandra Martinez Ruiz",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "HEDO690105HGTRZM09",
+    "nombre": "Omar Hernandez Diaz",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MOPP501212HJCRRD06",
+    "nombre": "Pedro Morales Perez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MORG530725MVZRMB08",
+    "nombre": "Gabriela Morales Ramirez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "FOPJ901216HDFLRR01",
+    "nombre": "Jorge Flores Perez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MOJL840925MCHRMR08",
+    "nombre": "Laura Morales Jimenez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GOLH770328HYNMPC09",
+    "nombre": "Hector Gomez Lopez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "OIDP930604MCHRZT04",
+    "nombre": "Patricia Ortiz Diaz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "RIRM620624MSOVYN00",
+    "nombre": "Monica Rivera Reyes",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "HEJL540701MJCRMR04",
+    "nombre": "Laura Hernandez Jimenez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "LORO951005HDFPVM09",
+    "nombre": "Omar Lopez Rivera",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "FOVC560916HJCLRR05",
+    "nombre": "Carlos Flores Vargas",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "LOTS580105MSLPRN00",
+    "nombre": "Sandra Lopez Torres",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "DIRA870114HNLZZR06",
+    "nombre": "Arturo Diaz Ruiz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "GOOV961008MCHMRR09",
+    "nombre": "Veronica Gomez Ortiz",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "JIOS600208MTSMRF00",
+    "nombre": "Sofia Jimenez Ortiz",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MEJR531218MNLNMS02",
+    "nombre": "Rosa Mendoza Jimenez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "PEMH941006HJCRRC06",
+    "nombre": "Hector Perez Martinez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "VAMG581104MSORRB04",
+    "nombre": "Gabriela Vargas Martinez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MALR740301MMCRPS08",
+    "nombre": "Rosa Martinez Lopez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "JIGO780216HQTMRM05",
+    "nombre": "Omar Jimenez Garcia",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MALC030622MSLRPLA0",
+    "nombre": "Claudia Martinez Lopez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "DIRS680225MTSZMF01",
+    "nombre": "Sofia Diaz Ramirez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "LORD620128HSLPMG07",
+    "nombre": "Diego Lopez Ramirez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RAJL670116HBCMMS06",
+    "nombre": "Luis Ramirez Jimenez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "CAMM900812MPLSRN03",
+    "nombre": "Monica Castillo Martinez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "TORF651125HYNRZR09",
+    "nombre": "Fernando Torres Ruiz",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "JIVC750311MYNMRL04",
+    "nombre": "Claudia Jimenez Vargas",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "JIMF831115HSLMNR04",
+    "nombre": "Fernando Jimenez Mendoza",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MOTP840807MYNRRT05",
+    "nombre": "Patricia Morales Torres",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "JIGS891006MBCMMF02",
+    "nombre": "Sofia Jimenez Gomez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "HEPA930116HBCRRN00",
+    "nombre": "Andres Hernandez Perez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "REGR040726HPLYMLA7",
+    "nombre": "Raul Reyes Gomez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "GAHO701212HSLRRM02",
+    "nombre": "Omar Garcia Hernandez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "REGK860724MYNYMR04",
+    "nombre": "Karla Reyes Gomez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MEJM931121HJCNMG07",
+    "nombre": "Miguel Mendoza Jimenez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "DIVM550806HSLZRG03",
+    "nombre": "Miguel Diaz Vargas",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MACC601113HTSRSR04",
+    "nombre": "Carlos Martinez Castillo",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "JIME720906MSLMRL08",
+    "nombre": "Elena Jimenez Morales",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "HECR680326HTSRSL07",
+    "nombre": "Raul Hernandez Castillo",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "JIGJ940621HSOMRN02",
+    "nombre": "Juan Jimenez Garcia",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "DIHP890826MTSZRT04",
+    "nombre": "Patricia Diaz Hernandez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "OIMG760726MQTRRB08",
+    "nombre": "Gabriela Ortiz Martinez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "CAJC010921MDFSMLA9",
+    "nombre": "Claudia Castillo Jimenez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "FOVA820806MSLLRN03",
+    "nombre": "Ana Flores Vargas",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "JIFE031220MSLMLLA7",
+    "nombre": "Elena Jimenez Flores",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "HEOR720620HJCRRL03",
+    "nombre": "Raul Hernandez Ortiz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "PEDM820317MMCRZN02",
+    "nombre": "Monica Perez Diaz",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "DIFS020804MGTZLNA8",
+    "nombre": "Sandra Diaz Flores",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "GACR890514HCHRSL06",
+    "nombre": "Raul Garcia Castillo",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "JIRK040327MNLMYRA4",
+    "nombre": "Karla Jimenez Reyes",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "OICA590625MNLRSN06",
+    "nombre": "Ana Ortiz Castillo",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "CATL910516HSLSRS01",
+    "nombre": "Luis Castillo Torres",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "OIRA660216MJCRYN09",
+    "nombre": "Ana Ortiz Reyes",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "OIGM851220MDFRMN00",
+    "nombre": "Monica Ortiz Gomez",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "OIRC900714MMCRZL04",
+    "nombre": "Claudia Ortiz Ruiz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RAHL030825MTSMRCA8",
+    "nombre": "Lucia Ramirez Hernandez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "CUTM940518MSRRRN07",
+    "nombre": "Monica Cruz Torres",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MAOL740618MNLRRR03",
+    "nombre": "Laura Martinez Ortiz",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "PELK920324MMCRPR01",
+    "nombre": "Karla Perez Lopez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CAGJ790907HYNSRN01",
+    "nombre": "Juan Castillo Garcia",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "PERF560504HNLRVR09",
+    "nombre": "Fernando Perez Rivera",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CAVO011115HBCSRMA6",
+    "nombre": "Omar Castillo Vargas",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GORA840122HVZMZN04",
+    "nombre": "Andres Gomez Ruiz",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "MARA920109HVZRYR07",
+    "nombre": "Arturo Martinez Reyes",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "GORO961224HSOMMM07",
+    "nombre": "Omar Gomez Ramirez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "HEPV920917MCHRRR05",
+    "nombre": "Veronica Hernandez Perez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RAJK500520MSLMMR02",
+    "nombre": "Karla Ramirez Jimenez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GARP760710MSRRVT01",
+    "nombre": "Patricia Garcia Rivera",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MOLL760802HQTRPS00",
+    "nombre": "Luis Morales Lopez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MOFD800812HYNRLG01",
+    "nombre": "Diego Morales Flores",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "LOFE650912MYNPLL04",
+    "nombre": "Elena Lopez Flores",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "RACA781124MDFMRN05",
+    "nombre": "Ana Ramirez Cruz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "FORM991103MBCLYN05",
+    "nombre": "Monica Flores Reyes",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "DIVM951103MTSZRN04",
+    "nombre": "Monica Diaz Vargas",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "LOOL590312HDFPRS06",
+    "nombre": "Luis Lopez Ortiz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "PEDA740618MJCRZN00",
+    "nombre": "Ana Perez Diaz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "LOPG850106MSRPRB04",
+    "nombre": "Gabriela Lopez Perez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "DICJ520107HJCZSR04",
+    "nombre": "Jorge Diaz Castillo",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "PEGS530127MNLRMF06",
+    "nombre": "Sofia Perez Gomez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "CAOM560226MNLSRN06",
+    "nombre": "Monica Castillo Ortiz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "JIRJ000417HTSMZNA3",
+    "nombre": "Juan Jimenez Ruiz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "JIGR690401MJCMMS09",
+    "nombre": "Rosa Jimenez Gomez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "LOFM800916MVZPLN03",
+    "nombre": "Monica Lopez Flores",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "LOPR721224MBCPRS00",
+    "nombre": "Rosa Lopez Perez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "MEHJ020113HTSNRRA8",
+    "nombre": "Jorge Mendoza Hernandez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MEVA040622HQTNRNA4",
+    "nombre": "Andres Mendoza Vargas",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "OIML500517MDFRRC06",
+    "nombre": "Lucia Ortiz Morales",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RUGD630809HGTZMG03",
+    "nombre": "Diego Ruiz Gomez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MATF630220HBCRRR03",
+    "nombre": "Fernando Martinez Torres",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "RAVR721019MJCMRS09",
+    "nombre": "Rosa Ramirez Vargas",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GOGR700401MYNMRS09",
+    "nombre": "Rosa Gomez Garcia",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MORR571002HJCRZC01",
+    "nombre": "Ricardo Morales Ruiz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "LODA600307HCHPZN07",
+    "nombre": "Andres Lopez Diaz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MAFJ640306HJCRLN02",
+    "nombre": "Juan Martinez Flores",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "LOVF720109HSLPRR05",
+    "nombre": "Fernando Lopez Vargas",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "LORC021225HCHPMRA7",
+    "nombre": "Carlos Lopez Ramirez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RUCC800201HSLZRR04",
+    "nombre": "Carlos Ruiz Cruz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "OIRP560415HSLRVD07",
+    "nombre": "Pedro Ortiz Rivera",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "GAGP540212MSORMT03",
+    "nombre": "Patricia Garcia Gomez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "TOMS790921MCHRRF08",
+    "nombre": "Sofia Torres Martinez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MORC660409HNLRMR06",
+    "nombre": "Carlos Morales Ramirez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MEPA581025MPLNRN05",
+    "nombre": "Ana Mendoza Perez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MERF551108HYNNMR02",
+    "nombre": "Fernando Mendoza Ramirez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "OIRA911015HDFRYR09",
+    "nombre": "Arturo Ortiz Reyes",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "OILL920623HGTRPS08",
+    "nombre": "Luis Ortiz Lopez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "DIRL620514MNLZYR01",
+    "nombre": "Laura Diaz Reyes",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "MARL950805HBCRZS05",
+    "nombre": "Luis Martinez Ruiz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "GOTJ780717HDFMRS03",
+    "nombre": "Jose Gomez Torres",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "HELD831009MJCRPN02",
+    "nombre": "Diana Hernandez Lopez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "PETG881113MPLRRB04",
+    "nombre": "Gabriela Perez Torres",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "LOMP541215MSRPNT03",
+    "nombre": "Patricia Lopez Mendoza",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "VALR540828MSLRPS07",
+    "nombre": "Rosa Vargas Lopez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "OIPJ960428HNLRRR05",
+    "nombre": "Jorge Ortiz Perez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "MAMD511202HSRRNG00",
+    "nombre": "Diego Martinez Mendoza",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "HERA000709MPLRYNA7",
+    "nombre": "Ana Hernandez Reyes",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GAJS601027MSLRMN08",
+    "nombre": "Sandra Garcia Jimenez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "CARV600716MCHSVR09",
+    "nombre": "Veronica Castillo Rivera",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CARP750617MBCSVT09",
+    "nombre": "Patricia Castillo Rivera",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "LORP611217MSRPYT01",
+    "nombre": "Patricia Lopez Reyes",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "OIHA980104MJCRRN05",
+    "nombre": "Ana Ortiz Hernandez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "RUTM701001MTSZRN08",
+    "nombre": "Monica Ruiz Torres",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "MAVP751016MYNRRT06",
+    "nombre": "Patricia Martinez Vargas",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "CAMM620711HSLSRG01",
+    "nombre": "Miguel Castillo Morales",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "GOMK030318MSOMRRA8",
+    "nombre": "Karla Gomez Martinez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "MOOM941007HGTRRG01",
+    "nombre": "Miguel Morales Ortiz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "FOPA930407HYNLRN00",
+    "nombre": "Andres Flores Perez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "CAMA770817HBCSNN04",
+    "nombre": "Andres Castillo Mendoza",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "TOPL610613MGTRRC07",
+    "nombre": "Lucia Torres Perez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "REGD630918HYNYRG02",
+    "nombre": "Diego Reyes Garcia",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "CULM760706MSORPN05",
+    "nombre": "Monica Cruz Lopez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "FORP550322HJCLVD02",
+    "nombre": "Pedro Flores Rivera",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "TOME670904MSORRL07",
+    "nombre": "Elena Torres Morales",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "OIMC710605HPLRNR09",
+    "nombre": "Carlos Ortiz Mendoza",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "RADM761027MSOMZR04",
+    "nombre": "Maria Ramirez Diaz",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "RAJR510105HGTMMC01",
+    "nombre": "Ricardo Ramirez Jimenez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "HELM970915HMCRPG03",
+    "nombre": "Miguel Hernandez Lopez",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RECA591221MJCYSN08",
+    "nombre": "Ana Reyes Castillo",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RAPE650221MYNMRL08",
+    "nombre": "Elena Ramirez Perez",
+    "especialidad": "Pediatría",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "PERM910112MMCRZR03",
+    "nombre": "Maria Perez Ruiz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "MORJ750804HCHRMR01",
+    "nombre": "Jorge Morales Ramirez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "RIRJ680724HQTVMR04",
+    "nombre": "Jorge Rivera Ramirez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "DIGA641104MJCZRN07",
+    "nombre": "Ana Diaz Garcia",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "TOMR910518MDFRRS08",
+    "nombre": "Rosa Torres Morales",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "VALJ040821HGTRPSA2",
+    "nombre": "Jose Vargas Lopez",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "LOOR981001MSOPRS08",
+    "nombre": "Rosa Lopez Ortiz",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "FOGV901201MSOLRR04",
+    "nombre": "Veronica Flores Garcia",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "MAOP940728MSORRT06",
+    "nombre": "Patricia Martinez Ortiz",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "PEOM561106HYNRRG08",
+    "nombre": "Miguel Perez Ortiz",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "VATS770621MSLRRF09",
+    "nombre": "Sofia Vargas Torres",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "RIGE870413MJCVML01",
+    "nombre": "Elena Rivera Gomez",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "FOCJ701228HSLLSN02",
+    "nombre": "Juan Flores Castillo",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "JIVL040108MGTMRCA3",
+    "nombre": "Lucia Jimenez Vargas",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "GOPP800528MGTMRT06",
+    "nombre": "Patricia Gomez Perez",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Norte",
+    "vigente": true
+  },
+  {
+    "curp": "PEHD610425HCHRRG04",
+    "nombre": "Diego Perez Hernandez",
+    "especialidad": "Odontología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "OIRA550903HGTRZN03",
+    "nombre": "Andres Ortiz Ruiz",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "PEOS931010MQTRRN00",
+    "nombre": "Sandra Perez Ortiz",
+    "especialidad": "Nutrición",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "HEFR690311HDFRLC08",
+    "nombre": "Ricardo Hernandez Flores",
+    "especialidad": "Oftalmología",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "RUMJ641215HQTZRN08",
+    "nombre": "Juan Ruiz Martinez",
+    "especialidad": "Dermatología",
+    "clinica": "Clínica Mar",
+    "vigente": true
+  },
+  {
+    "curp": "PECP830128MSLRRT03",
+    "nombre": "Patricia Perez Cruz",
+    "especialidad": "Cardiología",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  },
+  {
+    "curp": "LOCP041204MGTPSTA1",
+    "nombre": "Patricia Lopez Castillo",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Valle",
+    "vigente": true
+  },
+  {
+    "curp": "VATS770824MBCRRN07",
+    "nombre": "Sandra Vargas Torres",
+    "especialidad": "Ginecología",
+    "clinica": "Clínica Centro",
+    "vigente": true
+  },
+  {
+    "curp": "HEVM800204HDFRRG00",
+    "nombre": "Miguel Hernandez Vargas",
+    "especialidad": "Medicina familiar",
+    "clinica": "Clínica Sur",
+    "vigente": true
+  }
+]
